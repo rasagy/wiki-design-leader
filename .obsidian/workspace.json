@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "06fc816431e0e93b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f9dd7a55c0acb79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44f33de2d21e94b3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bd864f651b798ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "98336623a25a2fe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "397ee1795aa503fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "376dcc1d5bb9a346",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7e1b59320cc44d86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8213656096664ce8",
+    "type": "split",
+    "children": [
+      {
+        "id": "02428d16774bd6ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e94f67384f55349e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7af39ecc4edc86a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e9929427f335f414",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "42963acc24634f45",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "695c5c5e2b5931e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "44f33de2d21e94b3",
+  "lastOpenFiles": [
+    "q&a/How Should a Design Leader Approach the Transition from Individual Contributor.md",
+    "q&a/Key Responsibilities of a Design Leader.md",
+    "ideas/Leaders Who Fail Frequently and Learn Outperform.md",
+    "notes/Design leadership - how top design leaders build and grow - Banfield, Richard (2016).md",
+    "ideas/Apprenticeship Programs as Pipeline and Profit Center.md",
+    "notes/Design Leadership Handbook - Aarron Walter and Eli Woolery (2019).md",
+    "notes/The Making of a Manager - What to Do When Everyone Looks to - Zhuo, Julie (2019).md",
+    "notes/Org Design for Design Orgs - Building and Managing In-House - Kristin Skinner & Peter Merholz (2016).md",
+    "ideas/Soft Skills Are Perennially Underdeveloped in Design Leaders.md",
+    "ideas/Vulnerability and Admitting Confusion Builds Leader Trust.md",
+    "ideas/Most Design Leaders Feel Like They Are Making It Up.md",
+    "ideas/Overpromising Leads to Exhaustion and Disappointment.md",
+    "ideas/Contracts Make Expectations Explicit and Enforceable.md",
+    "ideas/Don't Grow for Growth's Sake.md",
+    "ideas/Delegation Requires Building Trust First.md",
+    "ideas/Approach Running Your Business as a Design Project.md",
+    "ideas/Speak the Client's Business Language Not Design Jargon.md",
+    "ideas/Most Project Failures Trace Back to Communication.md",
+    "ideas/Sales Is Conversations About Mutually Beneficial Relationships.md",
+    "ideas/Referrals Alone Are Not a Growth Strategy.md",
+    "ideas/Transparency in Process Is Now Expected by Clients.md",
+    "ideas/Design Leader Is the Firm's Best Salesperson.md",
+    "ideas/Teaching Others Makes You a Better Learner.md",
+    "ideas/Lead by Example but Delegate Intentionally.md",
+    "ideas/Anchor Plans to Revenue Outcomes to Stay Grounded.md",
+    "ideas/Growth Is Not Linear Plan for Bursts and Plateaus.md",
+    "ideas",
+    "untitled folder",
+    "q&a",
+    "ref/Voices of Design Leadership - Insights From Top - Ken Sanders (2022).epub",
+    "ref/backup/Voices of Design Leadership - Insights From Top - Ken Sanders (2022).pdf",
+    "ref/backup/Voices of Design Leadership  - Insights From Top - Ken Sanders (2022).pdf",
+    "ref/The Making of a Manager - What to Do When Everyone Looks to - Zhuo, Julie (2019).epub",
+    "ref/Design leadership - how top design leaders build and grow - Banfield, Richard (2016).epub",
+    "ref/Org Design for Design Orgs - Building and Managing In-House - Kristin Skinner & Peter Merholz (2016).mobi",
+    "ref/Org Design for Design Orgs  - Building and Managing In-House - Kristin Skinner & Peter Merholz (2016).mobi"
+  ]
+}

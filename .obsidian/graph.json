@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:notes  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:ideas  ",
+      "color": {
+        "a": 1,
+        "rgb": 13853892
+      }
+    },
+    {
+      "query": "path:q&a  ",
+      "color": {
+        "a": 1,
+        "rgb": 5429216
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 1.3,
+  "nodeSizeMultiplier": 1.89985677083333,
+  "lineSizeMultiplier": 1.1967578125,
+  "collapse-forces": true,
+  "centerStrength": 0.655989583333333,
+  "repelStrength": 11.8940972222222,
+  "linkStrength": 0.798350694444444,
+  "linkDistance": 30,
+  "scale": 1.048988553464936,
+  "close": false
+}
